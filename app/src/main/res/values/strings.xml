@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MigrosApp</string>
+    <string name="content_desc_img_banner">Banner Image</string>
+    <string name="content_desc_img_category">Category Image</string>
 </resources>
